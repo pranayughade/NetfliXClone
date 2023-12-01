@@ -5,7 +5,7 @@ html, body{
     background-color: black;
 }
 header{
-    background: linear-gradient(240deg,rgba(0,0,0,.5),rgba(0,0,0,.8)), url(/background.jpg);
+    background: linear-gradient(240deg,rgba(0,0,0,.5),rgba(0,0,0,.8)), url(background.jpg);
     height: 100vh;
     margin-left: -40px;
 }
